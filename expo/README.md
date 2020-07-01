@@ -7,4 +7,4 @@ This template works on windows, setting the external ip is done via a batch file
 It takes the first found IP (which works for me).
 
 To create and start a new project:
-
+![expo-cli](https://github.com/rkcda/vs-code-devcontainer-templates/raw/master/expo/expo-cli.gif)
